@@ -7,9 +7,8 @@
 ###
 
 <p align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlub3k2N3c3NXM1cnV6NGhydHo4aWRubHlrdXR1anFtejZhcmhyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="20"> A passionate self-taught software developer<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmswb3F0NGZlNWlsa2hheG91d3ZueWRua3FzeXp3c2tpdWY1aWMwaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="20"> I’m looking to collaborate on building new projects<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl2ZnJvazNlanRzemlxeTZwNTZxa2JjanVtNDJ2OXdhdnpvNWJjNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" width="20"> I’m currently learning BSc (Hons) in Information Technology Specialising in Software Engineering<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlub3k2N3c3NXM1cnV6NGhydHo4aWRubHlrdXR1anFtejZhcmhyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="20">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl2ZnJvazNlanRzemlxeTZwNTZxa2JjanVtNDJ2OXdhdnpvNWJjNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" width="20"> Software Engineer Undergraduate<br>
 </p>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jehan-silva-portfolio.vercel.app/)  
