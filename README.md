@@ -104,3 +104,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXM0NXBuejRsZmxjN2gydzUzdTNicDg4bnB3dWhreWw3dDR4bWI5eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ewh4ipgPw1bBVj4HI5/giphy.gif" width="35"> My Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jehantokyo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jehantokyo&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jehantokyo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
