@@ -7,8 +7,8 @@
 ###
 
 <p align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlub3k2N3c3NXM1cnV6NGhydHo4aWRubHlrdXR1anFtejZhcmhyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="20">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl2ZnJvazNlanRzemlxeTZwNTZxa2JjanVtNDJ2OXdhdnpvNWJjNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" width="20"> Software Engineer Undergraduate<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl2ZnJvazNlanRzemlxeTZwNTZxa2JjanVtNDJ2OXdhdnpvNWJjNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" width="30"> Software Engineer Undergraduate<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlub3k2N3c3NXM1cnV6NGhydHo4aWRubHlrdXR1anFtejZhcmhyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="30"> IT Intern<br>
 </p>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jehan-silva-portfolio.vercel.app/)  
